@@ -1,0 +1,2161 @@
+[ {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=Airport_Norfolk.stream",
+  "xpos" : "-122.28819",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.28819",
+    "latitude" : "47.51369"
+  },
+  "ypos" : "47.51369",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Airport_Norfolk.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Airport Way S & S Norfolk St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Rainier_Henderson.stream",
+  "xpos" : "-122.26989",
+  "weburl" : "http://www.seattle.gov/trafficcams/rainier_henderson.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.26989",
+    "latitude" : "47.52345"
+  },
+  "ypos" : "47.52345",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Rainier_Henderson.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Rainier Ave S & S Henderson St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=14_Cloverdale.stream",
+  "xpos" : "-122.31476",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.31476",
+    "latitude" : "47.5264"
+  },
+  "ypos" : "47.52640",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/14_Cloverdale.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "14th Ave S & S Cloverdale St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Fauntleroy_Cloverdale.stream",
+  "xpos" : "-122.39281",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.39281",
+    "latitude" : "47.52671"
+  },
+  "ypos" : "47.52671",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Fauntleroy_Cloverdale.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Fauntleroy SW & SW Cloverdale St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=EMarg_16.stream",
+  "xpos" : "-122.31321",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.31321",
+    "latitude" : "47.53436"
+  },
+  "ypos" : "47.53436",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/EMarg_16.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "E Marginal Way S & 16th Ave S"
+}
+, {
+  "videourl" : "NULL",
+  "xpos" : "-122.33367",
+  "weburl" : "http://www.seattle.gov/trafficcams/sr99_westmarginal.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.33367",
+    "latitude" : "47.5365"
+  },
+  "ypos" : "47.53650",
+  "imageurl" : {
+    "url" : "http://images.wsdot.wa.gov/nw/099vc02671.jpg"
+  },
+  "ownershipcd" : "WSDOT",
+  "cameralabel" : "SR-99 @ West Marginal Way"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=MLK_Othello.stream",
+  "xpos" : "-122.28111",
+  "weburl" : "http://www.seattle.gov/trafficcams/mlk_othello.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.28111",
+    "latitude" : "47.53689"
+  },
+  "ypos" : "47.53689",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/MLK_Othello.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "MLK Way S & S Othello St - NS"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Othello_MLK.stream",
+  "xpos" : "-122.28057",
+  "weburl" : "http://www.seattle.gov/trafficcams/othello_mlk.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.28057",
+    "latitude" : "47.53709"
+  },
+  "ypos" : "47.53709",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Othello_MLK.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "MLK Way S & S Othello St - EW"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=Airport_Othello.stream",
+  "xpos" : "-122.30220",
+  "weburl" : "http://www.seattle.gov/trafficcams/airport_othello.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.3022",
+    "latitude" : "47.53744"
+  },
+  "ypos" : "47.53744",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Airport_Othello.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Airport Way S & S Othello St"
+}
+, {
+  "videourl" : "NULL",
+  "xpos" : "-122.30024",
+  "weburl" : "http://www.seattle.gov/trafficcams/i5_boeing.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.30024",
+    "latitude" : "47.53815"
+  },
+  "ypos" : "47.53815",
+  "imageurl" : {
+    "url" : "http://images.wsdot.wa.gov/nw/005vc15970.jpg"
+  },
+  "ownershipcd" : "WSDOT",
+  "cameralabel" : "I-5 @ Mid Boeing Field"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=EMarg_Michigan.stream",
+  "xpos" : "-122.33137",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.33137",
+    "latitude" : "47.545"
+  },
+  "ypos" : "47.54500",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/EMarg_Mich.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "E Marginal Way S & S Michigan St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=4_Michigan.stream",
+  "xpos" : "-122.32968",
+  "weburl" : "http://www.seattle.gov/trafficcams/4th_Michigan.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.32968",
+    "latitude" : "47.54544"
+  },
+  "ypos" : "47.54544",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/4_Michigan.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "4th Ave S & S Michigan St"
+}
+, {
+  "videourl" : "NULL",
+  "xpos" : "-122.33409",
+  "weburl" : "http://www.seattle.gov/trafficcams/sr520_midspaneast.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.33409",
+    "latitude" : "47.54612"
+  },
+  "ypos" : "47.54612",
+  "imageurl" : {
+    "url" : "http://images.wsdot.wa.gov/nw/520vc00398.jpg"
+  },
+  "ownershipcd" : "WSDOT",
+  "cameralabel" : "SR-520 East Highrise"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Corson_Bailey.stream",
+  "xpos" : "-122.32130",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.3213",
+    "latitude" : "47.54742"
+  },
+  "ypos" : "47.54742",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Corson_Bailey.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Corson Ave S & S Bailey St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=1_Marginal.stream",
+  "xpos" : "-122.33421",
+  "weburl" : "http://www.seattle.gov/trafficcams/1st_Marginal.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.33421",
+    "latitude" : "47.54833"
+  },
+  "ypos" : "47.54833",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/1_EMarg.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "1st Ave S & E Marginal Way"
+}
+, {
+  "videourl" : "NULL",
+  "xpos" : "-122.31173",
+  "weburl" : "http://www.seattle.gov/trafficcams/i5_albro.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.31173",
+    "latitude" : "47.54856"
+  },
+  "ypos" : "47.54856",
+  "imageurl" : {
+    "url" : "http://images.wsdot.wa.gov/nw/005vc16123.jpg"
+  },
+  "ownershipcd" : "WSDOT",
+  "cameralabel" : "I-5 @ S Albro St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Rainier_Hudson.stream",
+  "xpos" : "-122.28468",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.28468",
+    "latitude" : "47.55696"
+  },
+  "ypos" : "47.55696",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Rainier_Hudson.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Rainier Ave S & S Hudson St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=EMarg_Hudson.stream",
+  "xpos" : "-122.33923",
+  "weburl" : "http://www.seattle.gov/trafficcams/Marginal_Hudson.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.33923",
+    "latitude" : "47.55746"
+  },
+  "ypos" : "47.55746",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/EMarg_Hudson.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "E Marginal Way S & S Hudson St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=Alaska_MLK.stream",
+  "xpos" : "-122.29260",
+  "weburl" : "http://www.seattle.gov/trafficcams/Alaska_MLK.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.2926",
+    "latitude" : "47.56083"
+  },
+  "ypos" : "47.56083",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Alaska_MLK.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "MLK Way S & S Alaska St - EW"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=California_Alaska.stream",
+  "xpos" : "-122.38690",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.3869",
+    "latitude" : "47.56097"
+  },
+  "ypos" : "47.56097",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/California_Alaska.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "California Ave SW & SW Alaska St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=42_Alaska.stream",
+  "xpos" : "-122.38532",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.38532",
+    "latitude" : "47.56099"
+  },
+  "ypos" : "47.56099",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Alaska_42.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "42nd Ave SW & SW Alaska St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Fauntleroy_Alaska.stream",
+  "xpos" : "-122.38128",
+  "weburl" : "http://www.seattle.gov/trafficcams/fauntleroy_alaska.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.38128",
+    "latitude" : "47.56119"
+  },
+  "ypos" : "47.56119",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Fauntleroy_Alaska.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Fauntleroy Way SW & SW Alaska St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=EMarg_Idaho.stream",
+  "xpos" : "-122.33953",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.33953",
+    "latitude" : "47.56432"
+  },
+  "ypos" : "47.56432",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/EMarg_Idaho.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "E Marginal Way S & S Idaho St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=35_Fauntleroy.stream",
+  "xpos" : "-122.37610",
+  "weburl" : "http://www.seattle.gov/trafficcams/35th_fauntleroy.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.3761",
+    "latitude" : "47.56494"
+  },
+  "ypos" : "47.56494",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/35_Fauntleroy.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "35th Ave SW & SW Fauntleroy"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=Airport_Industrial.stream",
+  "xpos" : "-122.32287",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.32287",
+    "latitude" : "47.56494"
+  },
+  "ypos" : "47.56494",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Airport_Industrial.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Airport Way S & S Industrial Way"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Wsea_FwyPullOut.stream",
+  "xpos" : "-122.37297",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.37297",
+    "latitude" : "47.56978"
+  },
+  "ypos" : "47.56978",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/WS_Bridge_Fauntleroy.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "West Seattle Fwy Pullout"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Wsea_Mid.stream",
+  "xpos" : "-122.34991",
+  "weburl" : "http://www.seattle.gov/trafficcams/WSB_Mid-span.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.34991",
+    "latitude" : "47.57088"
+  },
+  "ypos" : "47.57088",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/WS_Bridgedeck_East.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "W Seattle Bridge Mid"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Wsea_West.stream",
+  "xpos" : "-122.35652",
+  "weburl" : "http://www.seattle.gov/trafficcams/WSB_Delridge.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.35652",
+    "latitude" : "47.57118"
+  },
+  "ypos" : "47.57118",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/WS_Bridge_West.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "W Seattle Bridge West"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=6_Spokane.stream",
+  "xpos" : "-122.32593",
+  "weburl" : "http://www.seattle.gov/trafficcams/6th_Spokane.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.32593",
+    "latitude" : "47.57125"
+  },
+  "ypos" : "47.57125",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/6_Spokane.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "6th Ave S & S Spokane St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=11_Spokane.stream",
+  "xpos" : "-122.34910",
+  "weburl" : "http://www.seattle.gov/trafficcams/11th_spokane.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.3491",
+    "latitude" : "47.57161"
+  },
+  "ypos" : "47.57161",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/11_Spokane.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "11th Ave SW & SW Spokane St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Chelan_Marginal.stream",
+  "xpos" : "-122.36021",
+  "weburl" : "http://www.seattle.gov/trafficcams/Marginal_Chelan.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.36021",
+    "latitude" : "47.57209"
+  },
+  "ypos" : "47.57209",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Chelan_St_East.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Chelan Ave SW & W Marginal Way SW"
+}
+, {
+  "videourl" : "NULL",
+  "xpos" : "-122.31949",
+  "weburl" : "http://www.seattle.gov/trafficcams/i5_spokane.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.31949",
+    "latitude" : "47.57278"
+  },
+  "ypos" : "47.57278",
+  "imageurl" : {
+    "url" : "http://images.wsdot.wa.gov/nw/005vc16297.jpg"
+  },
+  "ownershipcd" : "WSDOT",
+  "cameralabel" : "I-5 @ S Spokane St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=EMarg_Hanford.stream",
+  "xpos" : "-122.33994",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.33994",
+    "latitude" : "47.57576"
+  },
+  "ypos" : "47.57576",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/EMarg_Hanford.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "E Marginal Way S & S Hanford St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=SR99_Lander.stream",
+  "xpos" : "-122.33951",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.33951",
+    "latitude" : "47.57975"
+  },
+  "ypos" : "47.57975",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/SR99_Lander.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "SR99 & Lander St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=3_Lander.stream",
+  "xpos" : "-122.33064",
+  "weburl" : "http://www.seattle.gov/trafficcams/3rd_Lander.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.33064",
+    "latitude" : "47.57985"
+  },
+  "ypos" : "47.57985",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/3_Lander.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "3rd Ave S & S Lander St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=Airport_Lander.stream",
+  "xpos" : "-122.32130",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.3213",
+    "latitude" : "47.57991"
+  },
+  "ypos" : "47.57991",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Airport_Lander.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Airport Way S & S Lander St"
+}
+, {
+  "videourl" : "NULL",
+  "xpos" : "-122.32322",
+  "weburl" : "http://www.seattle.gov/trafficcams/i5_holgate.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.32322",
+    "latitude" : "47.5861"
+  },
+  "ypos" : "47.58610",
+  "imageurl" : {
+    "url" : "http://images.wsdot.wa.gov/nw/005vc16396.jpg"
+  },
+  "ownershipcd" : "WSDOT",
+  "cameralabel" : "I-5 @ S Holgate St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=1_Holgate.stream",
+  "xpos" : "-122.33436",
+  "weburl" : "http://www.seattle.gov/trafficcams/1st_Holgate.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.33436",
+    "latitude" : "47.58621"
+  },
+  "ypos" : "47.58621",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/1_Holgate.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "1st Ave S & S Holgate St"
+}
+, {
+  "videourl" : "NULL",
+  "xpos" : "-122.27021",
+  "weburl" : "http://www.seattle.gov/trafficcams/i90_midspan.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.27021",
+    "latitude" : "47.58989"
+  },
+  "ypos" : "47.58989",
+  "imageurl" : {
+    "url" : "http://images.wsdot.wa.gov/nw/090vc00508.jpg"
+  },
+  "ownershipcd" : "WSDOT",
+  "cameralabel" : "I-90 Midspan"
+}
+, {
+  "videourl" : "NULL",
+  "xpos" : "-122.29969",
+  "weburl" : "http://www.seattle.gov/trafficcams/sr520_midspaneast.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.29969",
+    "latitude" : "47.59014"
+  },
+  "ypos" : "47.59014",
+  "imageurl" : {
+    "url" : "http://images.wsdot.wa.gov/nw/520vc00398.jpg"
+  },
+  "ownershipcd" : "WSDOT",
+  "cameralabel" : "SR-520 East Highrise"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=1_Atlantic.stream",
+  "xpos" : "-122.33405",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.33405",
+    "latitude" : "47.59014"
+  },
+  "ypos" : "47.59014",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/1_Atlantic.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "1st Ave S & S Atlantic St"
+}
+, {
+  "videourl" : "NULL",
+  "xpos" : "-122.28579",
+  "weburl" : "http://www.seattle.gov/trafficcams/i90_18th.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.28579",
+    "latitude" : "47.59024"
+  },
+  "ypos" : "47.59024",
+  "imageurl" : {
+    "url" : "http://images.wsdot.wa.gov/nw/090vc00318.jpg"
+  },
+  "ownershipcd" : "WSDOT",
+  "cameralabel" : "I-90 @ 18th Ave S"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=4_Atlantic.stream",
+  "xpos" : "-122.32844",
+  "weburl" : "http://www.seattle.gov/trafficcams/4th_atlantic.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.32844",
+    "latitude" : "47.59034"
+  },
+  "ypos" : "47.59034",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/4th_Atlantic.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "4th Ave S & S Atlantic St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=1_RoyalB.stream",
+  "xpos" : "-122.33438",
+  "weburl" : "http://www.seattle.gov/trafficcams/royal_safeco.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.33438",
+    "latitude" : "47.59226"
+  },
+  "ypos" : "47.59226",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/1_RoyalBrougham.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "1st Ave S & S Royal Brougham Way"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=4_I90.stream",
+  "xpos" : "-122.32924",
+  "weburl" : "http://www.seattle.gov/trafficcams/4thave_i90.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.32924",
+    "latitude" : "47.59341"
+  },
+  "ypos" : "47.59341",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/4thave_i90.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "4th Ave S @ I-90 TD"
+}
+, {
+  "videourl" : "NULL",
+  "xpos" : "-122.32036",
+  "weburl" : "http://www.seattle.gov/trafficcams/i5_i90.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.32036",
+    "latitude" : "47.59365"
+  },
+  "ypos" : "47.59365",
+  "imageurl" : {
+    "url" : "http://images.wsdot.wa.gov/nw/090vc00245.jpg"
+  },
+  "ownershipcd" : "WSDOT",
+  "cameralabel" : "I-5 @ I-90 Interchange"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Rainier_Dearborn.stream",
+  "xpos" : "-122.31155",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.31155",
+    "latitude" : "47.59577"
+  },
+  "ypos" : "47.59577",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Rainier_Dearborn.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Rainier Ave S & S Dearborn St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=5_Dearborn.stream",
+  "xpos" : "-122.32779",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.32779",
+    "latitude" : "47.59587"
+  },
+  "ypos" : "47.59587",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/5_Dearborn.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "5th Ave S & S Dearborn St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=4_Jackson.stream",
+  "xpos" : "-122.32915",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.32915",
+    "latitude" : "47.59912"
+  },
+  "ypos" : "47.59912",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/4_Jackson.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "4th Ave S & S Jackson St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Jackson_23.stream",
+  "xpos" : "-122.30233",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.30233",
+    "latitude" : "47.59932"
+  },
+  "ypos" : "47.59932",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Jackson_23.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "23rd Ave S & S Jackson St - EW"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=23_Jackson.stream",
+  "xpos" : "-122.30214",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.30214",
+    "latitude" : "47.59939"
+  },
+  "ypos" : "47.59939",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/23_Jackson.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "23rd Ave S & S Jackson St - NS"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Alaskan_Washington.stream",
+  "xpos" : "-122.33583",
+  "weburl" : "http://www.seattle.gov/trafficcams/alaskan_wash.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.33583",
+    "latitude" : "47.60013"
+  },
+  "ypos" : "47.60013",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Alaskan_Washington.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Alaskan Way & S Washington St"
+}
+, {
+  "videourl" : "NULL",
+  "xpos" : "-122.32378",
+  "weburl" : "http://www.seattle.gov/trafficcams/i5_yesler.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.32378",
+    "latitude" : "47.60053"
+  },
+  "ypos" : "47.60053",
+  "imageurl" : {
+    "url" : "http://images.wsdot.wa.gov/nw/005vc16508.jpg"
+  },
+  "ownershipcd" : "WSDOT",
+  "cameralabel" : "I-5 @ Yesler St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=12_Boren.stream",
+  "xpos" : "-122.31711",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.31711",
+    "latitude" : "47.60081"
+  },
+  "ypos" : "47.60081",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/12_Boren.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "12th Ave S & Boren Ave S"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=5_James.stream",
+  "xpos" : "-122.32912",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.32912",
+    "latitude" : "47.60381"
+  },
+  "ypos" : "47.60381",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/5_James.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "5th Ave & James St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=9_James.stream",
+  "xpos" : "-122.32454",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.32454",
+    "latitude" : "47.60555"
+  },
+  "ypos" : "47.60555",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/9_James.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "9th & James"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Cherry_23.stream",
+  "xpos" : "-122.30262",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.30262",
+    "latitude" : "47.60797"
+  },
+  "ypos" : "47.60797",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/ECherry_23.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "23rd Ave E & E Cherry St - EW"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=23_Cherry.stream",
+  "xpos" : "-122.30268",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.30268",
+    "latitude" : "47.60812"
+  },
+  "ypos" : "47.60812",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/23E_Cherry.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "23rd Ave E & E Cherry St - NS"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Boren_Madison.stream",
+  "xpos" : "-122.32534",
+  "weburl" : "http://www.seattle.gov/trafficcams/boren_madison.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.32534",
+    "latitude" : "47.60934"
+  },
+  "ypos" : "47.60934",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Boren_Madison.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Boren & Madison"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Boren_Seneca.stream",
+  "xpos" : "-122.32645",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.32645",
+    "latitude" : "47.61064"
+  },
+  "ypos" : "47.61064",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Boren_Seneca.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Boren & Seneca"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=2_Stewart.stream",
+  "xpos" : "-122.34027",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.34027",
+    "latitude" : "47.61094"
+  },
+  "ypos" : "47.61094",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/2_Stewart.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "2nd & Stewart"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=SR99_Western.stream",
+  "xpos" : "-122.34659",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.34659",
+    "latitude" : "47.61154"
+  },
+  "ypos" : "47.61154",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/SR99_Viaduct.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "SR99 Viaduct & Blanchard St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=7_Pike.stream",
+  "xpos" : "-122.33351",
+  "weburl" : "http://www.seattle.gov/trafficcams/7th_pike.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.33351",
+    "latitude" : "47.61162"
+  },
+  "ypos" : "47.61162",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/7_Pike.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "7th Ave & Pike St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Broadway_Pike.stream",
+  "xpos" : "-122.32090",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.3209",
+    "latitude" : "47.61395"
+  },
+  "ypos" : "47.61395",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Broadway_EPike.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Broadway & E Pike St - NS"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Pike_Broadway.stream",
+  "xpos" : "-122.32058",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.32058",
+    "latitude" : "47.614"
+  },
+  "ypos" : "47.61400",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/EPike_Broadway.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Broadway & E Pike St - EW"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=8_Howell.stream",
+  "xpos" : "-122.33375",
+  "weburl" : "http://www.seattle.gov/trafficcams/8thOlive_Howell.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.33375",
+    "latitude" : "47.61409"
+  },
+  "ypos" : "47.61409",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/8_Howell.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "8th Ave & Howell St"
+}
+, {
+  "videourl" : "NULL",
+  "xpos" : "-122.32965",
+  "weburl" : "http://www.seattle.gov/trafficcams/i5_pine.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.32965",
+    "latitude" : "47.61453"
+  },
+  "ypos" : "47.61453",
+  "imageurl" : {
+    "url" : "http://images.wsdot.wa.gov/nw/005vc16607.jpg"
+  },
+  "ownershipcd" : "WSDOT",
+  "cameralabel" : "I-5 @ Pine St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=16_Madison.stream",
+  "xpos" : "-122.31143",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.31143",
+    "latitude" : "47.61513"
+  },
+  "ypos" : "47.61513",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/16_Madison.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "16th Ave E & E Madison St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Elliott_Broad.stream",
+  "xpos" : "-122.35417",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.35417",
+    "latitude" : "47.61547"
+  },
+  "ypos" : "47.61547",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Elliott_Broad.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Elliott & Broad"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Boren_Howell.stream",
+  "xpos" : "-122.33159",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.33159",
+    "latitude" : "47.61614"
+  },
+  "ypos" : "47.61614",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Boren_Howell.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Boren & Howell"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Denny_Yale.stream",
+  "xpos" : "-122.33091",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.33091",
+    "latitude" : "47.61843"
+  },
+  "ypos" : "47.61843",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Yale_Denny.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Denny,Stewart,Yale"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Denny_Dexter.stream",
+  "xpos" : "-122.34222",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.34222",
+    "latitude" : "47.61848"
+  },
+  "ypos" : "47.61848",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Dexter_Denny.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Dexter & Denny"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Denny_4.stream",
+  "xpos" : "-122.34876",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.34876",
+    "latitude" : "47.6185"
+  },
+  "ypos" : "47.61850",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/4_Denny.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Denny Way & 4th Ave N"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=1_Denny.stream",
+  "xpos" : "-122.35557",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.35557",
+    "latitude" : "47.61851"
+  },
+  "ypos" : "47.61851",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/1_Denny.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "1st Ave & Denny Way"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Madison_23.stream",
+  "xpos" : "-122.30268",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.30268",
+    "latitude" : "47.61917"
+  },
+  "ypos" : "47.61917",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/EMadison_23.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "23rd Ave E & E Madison St - EW"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=23_Madison.stream",
+  "xpos" : "-122.30244",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.30244",
+    "latitude" : "47.61939"
+  },
+  "ypos" : "47.61939",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/23E_Madison.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "23rd Ave E & E Madison St - NS"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Eastlake_Stewart.stream",
+  "xpos" : "-122.32904",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.32904",
+    "latitude" : "47.61969"
+  },
+  "ypos" : "47.61969",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Eastlake_Stewart.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Eastlake Ave & Stewart St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Western_Elliott.stream",
+  "xpos" : "-122.35990",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.3599",
+    "latitude" : "47.62002"
+  },
+  "ypos" : "47.62002",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Western_Elliott.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Western & Elliott"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=QueenAnne_Mercer.stream",
+  "xpos" : "-122.35660",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.3566",
+    "latitude" : "47.62446"
+  },
+  "ypos" : "47.62446",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/QueenAnne_Mercer.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Queen Anne Ave N & Mercer St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Aurora_Mercer.stream",
+  "xpos" : "-122.34356",
+  "weburl" : "http://www.seattle.gov/trafficcams/aurora_mercer.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.34356",
+    "latitude" : "47.62451"
+  },
+  "ypos" : "47.62451",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/aurora_mercer.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Aurora Ave N & Mercer St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Fairview_Mercer.stream",
+  "xpos" : "-122.33438",
+  "weburl" : "http://www.seattle.gov/trafficcams/fairview_mercer.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.33438",
+    "latitude" : "47.62462"
+  },
+  "ypos" : "47.62462",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Fairview_Mercer.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Fairview & Mercer"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Broadway_Roy.stream",
+  "xpos" : "-122.32086",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.32086",
+    "latitude" : "47.62512"
+  },
+  "ypos" : "47.62512",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Broadway_Roy.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Broadway & E Roy St"
+}
+, {
+  "videourl" : "NULL",
+  "xpos" : "-122.32849",
+  "weburl" : "http://www.seattle.gov/trafficcams/i5_mercer.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.32849",
+    "latitude" : "47.6256"
+  },
+  "ypos" : "47.62560",
+  "imageurl" : {
+    "url" : "http://images.wsdot.wa.gov/nw/005vc16702.jpg"
+  },
+  "ownershipcd" : "WSDOT",
+  "cameralabel" : "I-5 @ Mercer St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Westlake_Broad.stream",
+  "xpos" : "-122.33861",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.33861",
+    "latitude" : "47.62561"
+  },
+  "ypos" : "47.62561",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Westlake_Broad.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Westlake & Broad"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Fairview_Valley.stream",
+  "xpos" : "-122.33426",
+  "weburl" : "http://www.seattle.gov/trafficcams/fairview_valley.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.33426",
+    "latitude" : "47.62621"
+  },
+  "ypos" : "47.62621",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Fairview_Valley.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Fairview & Valley"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Elliott_Mercer.stream",
+  "xpos" : "-122.36836",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.36836",
+    "latitude" : "47.62649"
+  },
+  "ypos" : "47.62649",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Elliott_Mercer.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Elliott Ave W & W Mercer Pl"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Aurora_Aloha.stream",
+  "xpos" : "-122.34367",
+  "weburl" : "http://www.seattle.gov/trafficcams/Aurora_aloha.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.34367",
+    "latitude" : "47.62661"
+  },
+  "ypos" : "47.62661",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Aurora_Aloha_South.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Aurora Ave N & Aloha St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Aurora_Ward.stream",
+  "xpos" : "-122.34354",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.34354",
+    "latitude" : "47.62793"
+  },
+  "ypos" : "47.62793",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Aurora_Ward.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Aurora Ave N & Ward St"
+}
+, {
+  "videourl" : "NULL",
+  "xpos" : "-122.25642",
+  "weburl" : "http://www.seattle.gov/trafficcams/sr520_midspaneast.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.25642",
+    "latitude" : "47.63994"
+  },
+  "ypos" : "47.63994",
+  "imageurl" : {
+    "url" : "http://images.wsdot.wa.gov/nw/520vc00398.jpg"
+  },
+  "ownershipcd" : "WSDOT",
+  "cameralabel" : "SR-520 East Highrise"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Montlake_LakeWash.stream",
+  "xpos" : "-122.30412",
+  "weburl" : "http://www.seattle.gov/trafficcams/Montlake_LakeWash.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.30412",
+    "latitude" : "47.64387"
+  },
+  "ypos" : "47.64387",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Montlake_LakeWash.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Montlake Blvd E & E Lake Wash Blvd"
+}
+, {
+  "videourl" : "NULL",
+  "xpos" : "-122.30519",
+  "weburl" : "http://www.seattle.gov/trafficcams/sr520_montlake.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.30519",
+    "latitude" : "47.64394"
+  },
+  "ypos" : "47.64394",
+  "imageurl" : {
+    "url" : "http://images.wsdot.wa.gov/nw/520vc00093.jpg"
+  },
+  "ownershipcd" : "WSDOT",
+  "cameralabel" : "SR-520 @ Montlake Blvd"
+}
+, {
+  "videourl" : "NULL",
+  "xpos" : "-122.28833",
+  "weburl" : "http://www.seattle.gov/trafficcams/sr520_midspan.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.28833",
+    "latitude" : "47.64476"
+  },
+  "ypos" : "47.64476",
+  "imageurl" : {
+    "url" : "http://images.wsdot.wa.gov/nw/520vc00241.jpg"
+  },
+  "ownershipcd" : "WSDOT",
+  "cameralabel" : "SR-520 @ West Highrise"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Westlake_Dexter.stream",
+  "xpos" : "-122.34977",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.34977",
+    "latitude" : "47.64606"
+  },
+  "ypos" : "47.64606",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Westlake_Dexter.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "4th Ave N & Dexter Ave N"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=15_Dravus.stream",
+  "xpos" : "-122.37640",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.3764",
+    "latitude" : "47.64844"
+  },
+  "ypos" : "47.64844",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/15W_Dravus.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "15th Ave W & W Dravus St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Montlake_Pacific1.stream",
+  "xpos" : "-122.30468",
+  "weburl" : "http://www.seattle.gov/trafficcams/Montlake_Pacific.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.30468",
+    "latitude" : "47.64922"
+  },
+  "ypos" : "47.64922",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Montlake_Pacific.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Montlake Blvd NE & NE Pacific St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Eastlake_Harvard.stream",
+  "xpos" : "-122.32204",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.32204",
+    "latitude" : "47.65044"
+  },
+  "ypos" : "47.65044",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Harvard_Eastlake.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Eastlake Ave E & Harvard Ave E"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Fremont_36.stream",
+  "xpos" : "-122.34988",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.34988",
+    "latitude" : "47.65143"
+  },
+  "ypos" : "47.65143",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Fremont_36.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Fremont Ave N & N 36th St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Evanston_36.stream",
+  "xpos" : "-122.35130",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.3513",
+    "latitude" : "47.65154"
+  },
+  "ypos" : "47.65154",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Evanston_36.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Evanston Ave N & N 36th St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=15_Emerson.stream",
+  "xpos" : "-122.37612",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.37612",
+    "latitude" : "47.65408"
+  },
+  "ypos" : "47.65408",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/15W_Emerson.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "15th Ave W & W Emerson St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Montlake_25.stream",
+  "xpos" : "-122.30071",
+  "weburl" : "http://www.seattle.gov/trafficcams/montlake_25th.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.30071",
+    "latitude" : "47.6598"
+  },
+  "ypos" : "47.65980",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Montlake_25.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Montlake Blvd NE & 25th Ave NE"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=45_UnionBay.stream",
+  "xpos" : "-122.29531",
+  "weburl" : "http://www.seattle.gov/trafficcams/45_Union_Bay.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.29531",
+    "latitude" : "47.66131"
+  },
+  "ypos" : "47.66131",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/NE45_UnionBay.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "NE 45th St & Union Bay Pl"
+}
+, {
+  "videourl" : "NULL",
+  "xpos" : "-122.32215",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.32215",
+    "latitude" : "47.66133"
+  },
+  "ypos" : "47.66133",
+  "imageurl" : {
+    "url" : "http://images.wsdot.wa.gov/nw/005vc16939.jpg"
+  },
+  "ownershipcd" : "WSDOT",
+  "cameralabel" : "I-5 @ NE 45th St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=Aurora_46.stream",
+  "xpos" : "-122.34743",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.34743",
+    "latitude" : "47.6617"
+  },
+  "ypos" : "47.66170",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Aurora_46.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Aurora Ave N & N 46th St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=15_Leary.stream",
+  "xpos" : "-122.37593",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.37593",
+    "latitude" : "47.6636"
+  },
+  "ypos" : "47.66360",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/15NW_Leary.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "15th Ave NW & NW Leary Way"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=15_Market.stream",
+  "xpos" : "-122.37631",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.37631",
+    "latitude" : "47.66852"
+  },
+  "ypos" : "47.66852",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/15NW_Market.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "15th Ave NW & NW Market St - NS"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Market_15.stream",
+  "xpos" : "-122.37595",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.37595",
+    "latitude" : "47.6686"
+  },
+  "ypos" : "47.66860",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/NWMarket_15.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "15th Ave NW & NW Market St - EW"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=15NW_65.stream",
+  "xpos" : "-122.37621",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.37621",
+    "latitude" : "47.6759"
+  },
+  "ypos" : "47.67590",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/15NW_65.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "15th Ave NW & NW 65th St - NS"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=65_15NW.stream",
+  "xpos" : "-122.37671",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.37671",
+    "latitude" : "47.67611"
+  },
+  "ypos" : "47.67611",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/NW65_15.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "15th Ave NW & NW 65th St - EW"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=25NE_65.stream",
+  "xpos" : "-122.30073",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.30073",
+    "latitude" : "47.67669"
+  },
+  "ypos" : "47.67669",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/25NE_65.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "25th Ave NE & NE 65th St"
+}
+, {
+  "videourl" : "NULL",
+  "xpos" : "-122.32067",
+  "weburl" : "http://www.seattle.gov/trafficcams/i5_lakecityway.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.32067",
+    "latitude" : "47.68137"
+  },
+  "ypos" : "47.68137",
+  "imageurl" : {
+    "url" : "http://images.wsdot.wa.gov/nw/005vc17078.jpg"
+  },
+  "ownershipcd" : "WSDOT",
+  "cameralabel" : "I-5 @ Lake City Way"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Roosevelt_75.stream",
+  "xpos" : "-122.31757",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.31757",
+    "latitude" : "47.6825"
+  },
+  "ypos" : "47.68250",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Roosevelt_75.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Roosevelt Way NE & NE 75th St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Aurora_Winona.stream",
+  "xpos" : "-122.34439",
+  "weburl" : "http://www.seattle.gov/trafficcams/aurora_winona.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.34439",
+    "latitude" : "47.68294"
+  },
+  "ypos" : "47.68294",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/aurora_winona.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Aurora Ave N & Winona Ave N"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=15_LCW.stream",
+  "xpos" : "-122.31221",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.31221",
+    "latitude" : "47.68658"
+  },
+  "ypos" : "47.68658",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/15_LCW.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "LCW & 15th Ave NE - EW"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=LCW_15.stream",
+  "xpos" : "-122.31085",
+  "weburl" : "http://www.seattle.gov/trafficcams/lakecity_15th.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.31085",
+    "latitude" : "47.68835"
+  },
+  "ypos" : "47.68835",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/LCW_15.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "LCW & 15th Ave NE - NS"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=15NW_85.stream",
+  "xpos" : "-122.37690",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.3769",
+    "latitude" : "47.6905"
+  },
+  "ypos" : "47.69050",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/15NW_85.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "15th Ave NW & NW 85th St"
+}
+, {
+  "videourl" : "NULL",
+  "xpos" : "-122.32895",
+  "weburl" : "http://www.seattle.gov/trafficcams/i5_85th.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.32895",
+    "latitude" : "47.6905"
+  },
+  "ypos" : "47.69050",
+  "imageurl" : {
+    "url" : "http://images.wsdot.wa.gov/nw/005vc17153.jpg"
+  },
+  "ownershipcd" : "WSDOT",
+  "cameralabel" : "I-5 @ NE 85th st"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=85_Aurora.stream",
+  "xpos" : "-122.34638",
+  "weburl" : "http://www.seattle.gov/trafficcams/aurora_85th.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.34638",
+    "latitude" : "47.69051"
+  },
+  "ypos" : "47.69051",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/aurora_85th.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Aurora Ave N & N 85th St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Aurora_85.stream",
+  "xpos" : "-122.34463",
+  "weburl" : "http://www.seattle.gov/trafficcams/aurora_87th.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.34463",
+    "latitude" : "47.69195"
+  },
+  "ypos" : "47.69195",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/aurora_87th.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Aurora Ave N & N 87th St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Aurora_90.stream",
+  "xpos" : "-122.34447",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.34447",
+    "latitude" : "47.69428"
+  },
+  "ypos" : "47.69428",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Aurora_90.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Aurora Ave N & N 90th St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Aurora_105.stream",
+  "xpos" : "-122.34458",
+  "weburl" : "http://www.seattle.gov/trafficcams/aurora_103rd.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.34458",
+    "latitude" : "47.70294"
+  },
+  "ypos" : "47.70294",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/aurora_103rd.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Aurora Ave N & N 103rd St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=105_Aurora.stream",
+  "xpos" : "-122.34426",
+  "weburl" : "http://www.seattle.gov/trafficcams/aurora_105th.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.34426",
+    "latitude" : "47.70499"
+  },
+  "ypos" : "47.70499",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/aurora_105th.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Aurora Ave N & N 105th St"
+}
+, {
+  "videourl" : "NULL",
+  "xpos" : "-122.33001",
+  "weburl" : "http://www.seattle.gov/trafficcams/i5_northgate.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.33001",
+    "latitude" : "47.70592"
+  },
+  "ypos" : "47.70592",
+  "imageurl" : {
+    "url" : "http://images.wsdot.wa.gov/nw/005vc17277.jpg"
+  },
+  "ownershipcd" : "WSDOT",
+  "cameralabel" : "I-5 @ Northgate Way"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=5_Northgate.stream",
+  "xpos" : "-122.32330",
+  "weburl" : "http://www.seattle.gov/trafficcams/northgate_5thb.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.3233",
+    "latitude" : "47.70775"
+  },
+  "ypos" : "47.70775",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/northgate_5thb.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "5th Ave NE & NE Northgate Way"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Northgate_5.stream",
+  "xpos" : "-122.32476",
+  "weburl" : "http://www.seattle.gov/trafficcams/northgate_5tha.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.32476",
+    "latitude" : "47.70867"
+  },
+  "ypos" : "47.70867",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/northgate_5tha.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "5th Ave NE & NE Northgate Way"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=1_Northgate.stream",
+  "xpos" : "-122.32876",
+  "weburl" : "http://www.seattle.gov/trafficcams/northgate_1st.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.32876",
+    "latitude" : "47.70886"
+  },
+  "ypos" : "47.70886",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/1_Northgate.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "1st Ave NE & NE Northgate Way"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Aurora_117.stream",
+  "xpos" : "-122.34476",
+  "weburl" : "NULL",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.34476",
+    "latitude" : "47.71467"
+  },
+  "ypos" : "47.71467",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/Aurora_117.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Aurora Ave N & N 117 Pl"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=LCW_125.stream",
+  "xpos" : "-122.29561",
+  "weburl" : "http://www.seattle.gov/trafficcams/lakecity_125th.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.29561",
+    "latitude" : "47.71848"
+  },
+  "ypos" : "47.71848",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/LCW_125.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "LCW & NE 125th St - NS"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=125_LCW.stream",
+  "xpos" : "-122.29404",
+  "weburl" : "http://www.seattle.gov/trafficcams/125th_lakecity.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.29404",
+    "latitude" : "47.71933"
+  },
+  "ypos" : "47.71933",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/125_LCW.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "LCW & NE 125th St - EW"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Aurora_130.stream",
+  "xpos" : "-122.34507",
+  "weburl" : "http://www.seattle.gov/trafficcams/aurora_130thb.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.34507",
+    "latitude" : "47.72293"
+  },
+  "ypos" : "47.72293",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/aurora_130thb.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Aurora Ave N & N 130th St - NS"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=130_Aurora.stream",
+  "xpos" : "-122.34683",
+  "weburl" : "http://www.seattle.gov/trafficcams/aurora_130tha.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.34683",
+    "latitude" : "47.72328"
+  },
+  "ypos" : "47.72328",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/aurora_130tha.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Aurora Ave N & N 130th St - EW"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=LCW_145.stream",
+  "xpos" : "-122.29229",
+  "weburl" : "http://www.seattle.gov/trafficcams/lakecity_145th.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.29229",
+    "latitude" : "47.73215"
+  },
+  "ypos" : "47.73215",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/LCW_145.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "LCW & NE 145th St - NS"
+}
+, {
+  "videourl" : "rtmp://156.74.125.146:1935/live&file=Aurora_145.stream",
+  "xpos" : "-122.34518",
+  "weburl" : "http://www.seattle.gov/trafficcams/aurora_145tha.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.34518",
+    "latitude" : "47.73341"
+  },
+  "ypos" : "47.73341",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/aurora_145tha.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Aurora Ave N & N 145th St - NS"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=145_LCW.stream",
+  "xpos" : "-122.29159",
+  "weburl" : "http://www.seattle.gov/trafficcams/145th_lakecity.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.29159",
+    "latitude" : "47.73383"
+  },
+  "ypos" : "47.73383",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/145_LCW.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "LCW & NE 145th St - EW"
+}
+, {
+  "videourl" : "NULL",
+  "xpos" : "-122.32280",
+  "weburl" : "http://www.seattle.gov/trafficcams/I5_145th.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.3228",
+    "latitude" : "47.73405"
+  },
+  "ypos" : "47.73405",
+  "imageurl" : {
+    "url" : "http://images.wsdot.wa.gov/nw/005vc17461.jpg"
+  },
+  "ownershipcd" : "WSDOT",
+  "cameralabel" : "I-5 @ NE 145th St"
+}
+, {
+  "videourl" : "rtmp://156.74.125.142:1935/live&file=145_Aurora.stream",
+  "xpos" : "-122.34487",
+  "weburl" : "http://www.seattle.gov/trafficcams/aurora_145thb.htm",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-122.34487",
+    "latitude" : "47.73407"
+  },
+  "ypos" : "47.73407",
+  "imageurl" : {
+    "url" : "http://www.seattle.gov/trafficcams/images/aurora_145thb.jpg"
+  },
+  "ownershipcd" : "SDOT",
+  "cameralabel" : "Aurora Ave N & N 145th St - EW"
+}
+ ]
